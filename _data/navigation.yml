@@ -1,0 +1,46 @@
+#Homepage Ribbon Navigation
+main:
+  - title: "Blog"
+    url: /blog/
+  - title: "Data"
+    url: /data/
+  - title: "History"
+    url: /history/
+  - title: "About"
+    url: /about/
+
+#History Page Sidebar Navigation
+history:
+  - title: Timelines
+    children:
+      - title: "US Financial Regulation Timeline"
+        url: /history/us-financial-regulation-timeline/
+      - title: "US Financial Markets Timeline"
+        url: /history/us-financial-markets-timeline/
+  - title: Books
+    children:
+      - title: "History Book Recommendations"
+        url: /history/history-book-recommendations/
+
+#Data Page Sidebar Navigation
+data:
+  - title: Databases
+    children:
+      - title: "Government Databases"
+        url: /data/government-databases/
+      - title: "Non-Government Databases"
+        url: /data/non-government-databases/
+      - title: "Financial Calculators"
+        url: /data/financial-calculators/
+  - title: Beginner Coding
+    children:
+      - title: "R"
+        url: /data/beginner_r/
+      - title: "Python"
+        url: /data/beginner_python/
+      - title: "SQL"
+        url: /data/beginner_sql/
+      - title: "SAS"
+        url: /data/beginner_sas/
+      - title: "Stata"
+        url: /data/beginner_stata/

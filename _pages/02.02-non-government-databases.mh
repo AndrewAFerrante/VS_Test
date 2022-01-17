@@ -1,0 +1,31 @@
+---
+title: "Non-Government Databases"
+permalink: /data/non-government-databases/
+sidebar:
+  nav: "data"
+classes: wide
+---
+
+This is a list of some great data that isn't surveyed from government organization. Some sources may include primary government data along with other non-government data.
+
+### [Opportunity Insights](https://opportunityinsights.org/data/)
+Harvard University
+
+Opportunity Insights is a nonprofit research organization that primairly reseraches effects on mobility across the US. They are most well known for their economic mobility mapping tool the [Opportuntiy Atlas](https://www.opportunityatlas.org/)This is the database I used for my senior capstone class in undergrad. 
+
+---
+
+### [Gapminder](https://www.gapminder.org/data/)
+
+Gapminder is an independent Swedish foundation that has compiled a bunch of national level data to compare trends between countries over time. A fun example of how they track trends is from one of their visual guides that [illustrates over 200 years of income level data](https://www.gapminder.org/tools/#$model$markers$mountain$encoding$frame$value=2019;;;;;&chart-type=mountain&url=v1)!
+
+---
+
+### [List of Indicators](https://ycharts.com/indicators/regions/countries/USA)
+YCharts
+
+This is a great reference to check out some quick plots of leading indicators in the US. Give it a look to see the national unemployment rate, GDP, inflation, and more!
+
+---
+
+*More to come!
